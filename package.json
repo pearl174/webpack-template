@@ -21,7 +21,11 @@
   },
   "homepage": "https://github.com/pearl174/webpack-template#readme",
   "dependencies": {
+    "html-webpack-plugin": "^5.6.3",
     "webpack": "^5.101.0",
     "webpack-cli": "^6.0.1"
+  },
+  "devDependencies": {
+    "webpack-merge": "^6.0.1"
   }
 }
